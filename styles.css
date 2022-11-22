@@ -1,0 +1,10 @@
+.landing {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.couch > img {
+    width: 100%;
+}
