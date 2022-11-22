@@ -8,3 +8,16 @@
 .couch > img {
     width: 100%;
 }
+
+nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.navitem{
+
+    font-size: larger;
+    color: rgb(177, 177, 5);
+    
+}
