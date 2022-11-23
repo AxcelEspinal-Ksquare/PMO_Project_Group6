@@ -16,19 +16,6 @@ body {
     width: 100%;
 }
 
-nav{
-    background-color: aliceblue;
-    display: flex;
-    flex-direction: row;
-    
-    justify-content: center;
-}
-
-.navitem{
-
-    font-size: larger;
-    color: rgb(177, 177, 5);
-    
 
 .event {
     padding: 20px;
@@ -37,4 +24,29 @@ nav{
     border-radius: 15px;
     font-size: x-large;
 
+}
+
+/* NAVBAR */
+nav{
+    
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+
+.navitem{
+    margin-left: 48px;
+    font-size: 48px;
+    text-decoration: none;
+    color: rgb(190, 173, 12);
+    
+}
+
+.navitem:hover{
+    margin-left: 47px;
+    font-size: 48px;
+    text-decoration: none;
+    color: gold;
+    
 }
