@@ -1,9 +1,16 @@
+body {
+    font-family: 'Lato';
+}
+
 .landing {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-image: url(/assets/thesimpsons_couch_zoom_aa570da9.webp);
+    height: 100vh;
 }
+
 
 .couch > img {
     width: 100%;
@@ -22,4 +29,12 @@ nav{
     font-size: larger;
     color: rgb(177, 177, 5);
     
+
+.event {
+    padding: 20px;
+    border: 1px solid black;
+    background-color: gold;
+    border-radius: 15px;
+    font-size: x-large;
+
 }
