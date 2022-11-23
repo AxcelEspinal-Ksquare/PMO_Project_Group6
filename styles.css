@@ -29,7 +29,7 @@ nav{
     font-size: larger;
     color: rgb(177, 177, 5);
     
-
+} 
 .event {
     padding: 20px;
     border: 1px solid black;
@@ -37,4 +37,22 @@ nav{
     border-radius: 15px;
     font-size: x-large;
 
+}
+
+.eventSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.board {
+    background-color: #00521d;
+    color: white;
+    font-size: x-large;
+    padding: 2vh;
+    font-family:'Kristen ITC';
+    text-decoration: none;
+    border: solid 10px #673b16;
+    width: fit-content;
 }
