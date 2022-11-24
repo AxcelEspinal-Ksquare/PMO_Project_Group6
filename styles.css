@@ -53,21 +53,22 @@ nav {
 }
 
 .eventSection {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+
 }
 
 .board {
-  background-color: #00521d;
-  color: white;
-  font-size: x-large;
-  padding: 2vh;
-  font-family: "Kristen ITC";
-  text-decoration: none;
-  border: solid 10px #673b16;
-  width: fit-content;
+    background-color: #00521d;
+    color: white;
+    padding: 2vh;
+    font-family:'Kristen ITC';
+    text-decoration: none;
+    border: solid 10px #673b16;
+    width: fit-content;
 }
 
 /*Team section*/
