@@ -65,13 +65,13 @@ nav{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-size: x-large;
 
 }
 
 .board {
     background-color: #00521d;
     color: white;
-    font-size: x-large;
     padding: 2vh;
     font-family:'Kristen ITC';
     text-decoration: none;
