@@ -24,6 +24,16 @@ body {
 }
 
 /* NAVBAR */
+.navbar{
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    width: 100%;
+    flex-direction: row;
+    top: -50px;
+    transition: top 0.2s;
+    
+}
 nav {
   display: flex;
   justify-content: center;
