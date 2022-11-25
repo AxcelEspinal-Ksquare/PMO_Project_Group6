@@ -35,23 +35,25 @@ body {
     top: -50px;
     transition: top 0.2s;
     
+    
 }
 nav {
   display: flex;
   justify-content: center;
   flex-direction: row;
+  background-color: rgb(124, 192, 219);
 }
 
 .navitem {
   margin-left: 48px;
-  font-size: 48px;
+  font-size: 30px;
   text-decoration: none;
-  color: rgb(190, 173, 12);
+  color: rgb(214, 194, 10);
 }
 
 .navitem:hover {
   margin-left: 47px;
-  font-size: 48px;
+  font-size: 31px;
   text-decoration: none;
   color: gold;
 }
