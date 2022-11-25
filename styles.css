@@ -30,25 +30,20 @@ body {
     display: flex;
     position: fixed;
     justify-content: center;
+    align-items: center;
     width: 100%;
     flex-direction: row;
-    top: -50px;
+    top: -200px;
     transition: top 0.2s;
+    background-color: rgb(124, 192, 219);
     
-    
-}
-nav {
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-  background-color: rgb(124, 192, 219);
 }
 
 .navitem {
   margin-left: 48px;
   font-size: 30px;
   text-decoration: none;
-  color: rgb(214, 194, 10);
+  color: rgb(255, 255, 255);
 }
 
 .navitem:hover {
