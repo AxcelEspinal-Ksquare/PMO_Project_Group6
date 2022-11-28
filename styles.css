@@ -48,13 +48,16 @@ body {
   font-size: 30px;
   text-decoration: none;
   color: rgb(255, 255, 255);
+  
 }
 
 .navitem:hover {
   margin-left: 47px;
-  font-size: 31px;
+  font-size: 32px;
   text-decoration: none;
   color: gold;
+  text-shadow: 1px 1px 3px gold;
+  font-weight: bold;
 }
 
 .event {
