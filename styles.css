@@ -29,6 +29,15 @@ body {
   font-size: x-large;
 }
 
+.location, .location:hover{
+  text-decoration: underline;
+  font-weight: bolder;
+  color: black;
+}
+
+.location:hover {
+  font-size: xx-large;
+}
 /* NAVBAR */
 .navbar{
     display: flex;
