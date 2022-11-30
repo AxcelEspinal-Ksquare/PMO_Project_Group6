@@ -98,9 +98,13 @@ body {
 }
 
 .bart{
-  width: auto;
-  height: 25vh;
-  margin: -15vh 0 0 85vh;
+    width: auto;
+    position: relative;
+    height: 235px;
+    margin: -15vh 0vh 0 0;
+    left: 25rem;
+    z-index: 0;
+
 }
 
 /*Team section*/
