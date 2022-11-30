@@ -49,6 +49,7 @@ body {
     top: -200px;
     transition: top 0.2s;
     background-color: rgb(124, 192, 219);
+    z-index: 1;
     
 }
 
