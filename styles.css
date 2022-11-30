@@ -17,10 +17,6 @@ body {
   height: 100vh;
 }
 
-.couch > img {
-  width: 100%;
-}
-
 .event {
   padding: 20px;
   border: 1px solid black;
