@@ -125,8 +125,8 @@ body {
   padding: 32px 16px;
 }
 .member_image {
-  height: 200px;
-  width: 200px;
+  height: 350px;
+  width: auto;
   display: block;
   justify-content: center;
 }
@@ -140,19 +140,4 @@ body {
   font-size: 1.5rem;
   text-align: center;
   margin-top: 12px;
-}
-.social_media_member {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 16px;
-}
-.social_media {
-  height: 50px;
-  width: 50px;
-  cursor: pointer;
-  transition: ease-in-out 0.5s;
-}
-
-.social_media:hover {
-  scale: 1.2;
 }
